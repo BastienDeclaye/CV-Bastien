@@ -1,5 +1,5 @@
-#Declaye Bastien  
-##Développeur
+# Declaye Bastien  
+## Développeur
 
 ![Logo](https://imgfast.net/users/1614/34/62/52/avatars/5-85.jpg)
 
@@ -9,7 +9,7 @@
 *0479/29.10.38*  
 *Né le 21 janvier 1990 à Dinant*  
 
-###Etudes & Formations
+### Etudes & Formations
 * **Mars - juin 2017:**  
 Formation "Game Developer" chez Technobel (Ciney)
 * **Juin - décembre 2015:**  
@@ -23,7 +23,7 @@ Infographie, section jeux vidéo puis illustration à l'ESIAJ (HEAJ, Namur)
 * **2002 - 2008:**  
 Etudes secondaires, option sciences (6h) à l'INDBg (Beauraing)
 
-###Expériences professionnelles
+### Expériences professionnelles
 * **Etés 2011 - 2014:**  
 Location de bateaux électrique sans permis chez Dinant Evasion Croisières  
 Travail saisonnier intermittent (2011-2013: Etudiant, 2014: CDD)
@@ -32,7 +32,7 @@ Réassortisseur au GB de Beauraing (Etudiant)
 * **Avril - Juin 2008:**  
 Caissier-réassortisseur au GB Express de Huy (Etudiant)  
 
-###Connaissances informatiques
+### Connaissances informatiques
 * **Développement orienté objet:**
 	* C#
 	* Bases en Framework .NET (ADO, WCF, ASP MVC, WPF)
@@ -66,13 +66,13 @@ Caissier-réassortisseur au GB Express de Huy (Etudiant)
 	* Slides
 * **Notions de XML**
 
-###Connaissances linguistiques
+### Connaissances linguistiques
 * **Français:** langue maternelle  
 * **Anglais:** lu et écrit couramment, parlé correct  
 * **Néerlandais:** lu, écrit et parlé basique  
 * **Japonais:** connaissances théoriques
 
-###Centres d'intérêt
+### Centres d'intérêt
 * **Sciences**, particulièrement la physique, la géologie et l'astronomie
 * **Univers de fiction**, principalement en animation et bande dessinée
 * **Culture et musique japonaise**
