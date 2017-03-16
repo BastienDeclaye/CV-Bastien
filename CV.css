@@ -1,0 +1,27 @@
+body {
+	background: #eee;
+	color: #444;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+.container {
+	width: 70%;
+	margin: auto;
+}
+
+.pad {
+	padding: 10px;
+}
+
+section {
+	width: 80%;
+	float: left;
+	background: white;
+}
+
+aside {
+	width: 19%;
+	float: right;
+	background: white;
+	text-align: center;
+}
