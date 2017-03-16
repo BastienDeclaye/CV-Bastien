@@ -1,7 +1,7 @@
-![Logo](https://imgfast.net/users/1614/34/62/52/avatars/5-85.jpg)
-
 #Declaye Bastien
 ##Développeur
+
+![Logo](https://imgfast.net/users/1614/34/62/52/avatars/5-85.jpg)
 
 *Quartier des 3 chênes, 29*  
 *5574 Pondrôme, BELGIQUE*  
